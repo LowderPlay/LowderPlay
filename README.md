@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LowderPlay
 - 👀 I’m interested in **software engineering, home automation, homelabbing, gaming**
-- 🌱 I’m currently learning **Kubernetes, Java, Spring, low-level Linux**
+- 🌱 I’m currently learning **Rust, Kubernetes, Spring, low-level Linux**
 - 📫 How to reach me **t.me/lowderplay, Lowder#5518**
 
 <!---
